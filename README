@@ -5,7 +5,7 @@ CWM6 TASS device config
 -then do $build/tools/device/mkvendor.sh samsung tass ~/path_to_your_/boot.img (thank Shaaan)
 -to load the device config do $lunch_tass-eng
 3. then $make recoveryimage
-4. after its done you can find the recovery.img into you your jb tree/out/target/product/tass
+4. after its done you can find the recovery.img into your jb_tree/out/target/product/tass
 
 dany547#xda
 Shaaan#xda
